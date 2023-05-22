@@ -1,2 +1,2 @@
 # doanapp
-ứng dụng di 
+ứng dụng di động
